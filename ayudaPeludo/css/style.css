@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    color: rgb(10, 2, 2);
+}
+
+
+h1,h2{
+    text-align: center;
+}
+h1{
+    color: rgb(33, 3, 41);
+}
+
+body {
+    background-color: rgb(211, 186, 219); /* Color de fondo */
+    margin: 20px; /* ponerle marguen a la vista */
+}
+
+li{
+    margin-left: 20px; /* ponerle marguen a la vista */
+    margin: 25px;
+    
+}
+
+
+       
